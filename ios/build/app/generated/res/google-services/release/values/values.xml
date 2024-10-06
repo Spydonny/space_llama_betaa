@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">943731696743</string>
+    <string name="google_api_key" translatable="false">AIzaSyCqMkwB2N4O2EfDLlT9bsFRGYSEC4KEZlE</string>
+    <string name="google_app_id" translatable="false">1:943731696743:android:3dc825b084c3e6b28ca0c2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCqMkwB2N4O2EfDLlT9bsFRGYSEC4KEZlE</string>
+    <string name="google_storage_bucket" translatable="false">space-llama.appspot.com</string>
+    <string name="project_id" translatable="false">space-llama</string>
+</resources>
